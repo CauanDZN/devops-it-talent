@@ -78,3 +78,9 @@ VPN (Virtual Private Network) é uma rede privada virtual que permite que usuár
 ![VPN, DNS e DHCP](imagens/imagem-29.png)
 ![VPN, DNS e DHCP](imagens/imagem-30.png)
 ![VPN, DNS e DHCP](imagens/imagem-31.png)
+
+## Certificado de Conclusão do Módulo 2 da trilha DevOps
+
+Este certificado reconhece a conclusão bem-sucedida do segundo módulo do curso de DevOps, comprovando as habilidades e conhecimentos adquiridos na área. É uma validação do compromisso com a excelência em práticas DevOps e aprimoramento contínuo no campo da engenharia de software.
+
+![Certificado](imagens/imagem-32.png)
