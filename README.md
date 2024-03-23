@@ -13,8 +13,8 @@ Antes de começar esta trilha, é necessário ter concluído os seguintes cursos
 
 Esta trilha consiste em uma série de módulos que abordam diferentes aspectos do DevOps. Abaixo está a lista completa dos módulos:
 
-1. **Introdução a DevOps**
-2. **Introdução a Redes**
+1. **[Introdução a DevOps](01_introducao_a_devops)**
+2. **[Introdução a Redes](02_introducao_a_redes)**
 3. **12 Factors App**
 4. **Introdução a Linux, WSL e Shell Scripting**
 5. **Conteinerização 1**
