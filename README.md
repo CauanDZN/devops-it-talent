@@ -5,9 +5,9 @@ Bem-vindo ao Programa IT Talent! Esta é uma trilha destinada a completar os con
 ## Pré-requisito
 
 Antes de começar esta trilha, é necessário ter concluído os seguintes cursos:
-- Curso de Java
 - Curso de Git
-- Curso de Play Framework
+- [Curso de Java](https://github.com/CauanDZN/java-conceitos-iniciais)
+- [Curso de Play Framework](https://github.com/CauanDZN/api-com-play)
 
 ## Trilha DevOps
 
