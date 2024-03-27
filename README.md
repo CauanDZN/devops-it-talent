@@ -15,7 +15,7 @@ Esta trilha consiste em uma série de módulos que abordam diferentes aspectos d
 
 1. **[Introdução a DevOps](01_introducao_a_devops)**
 2. **[Introdução a Redes](02_introducao_a_redes)**
-3. **12 Factors App**
+3. **[12 Factors App](03_twelve_factors_app)**
 4. **Introdução a Linux, WSL e Shell Scripting**
 5. **Conteinerização 1**
 6. **Conteinerização 2**
