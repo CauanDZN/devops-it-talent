@@ -1,5 +1,7 @@
 # IT Talent
 
+![IT Talent](.github/devops.png)
+
 Bem-vindo ao Programa IT Talent! Esta é uma trilha destinada a completar os conhecimentos em DevOps.
 
 ## Pré-requisito
